@@ -2,7 +2,7 @@
 
 This repository contains all the schema used by plugins to communicate with the probe agent.
 
-## Go (ThreatMapper)
+## Go (Kengine)
 
 Run the Makefile located in this repository to generate all the gRPC go files:
 
