@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/agent-plugins-grpc
 
 go 1.21
 
-toolchain go1.23.5
+toolchain go1.24.0
 
 require (
 	google.golang.org/grpc v1.64.1
