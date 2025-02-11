@@ -6,7 +6,7 @@ toolchain go1.23.5
 
 require (
 	google.golang.org/grpc v1.64.1
-	google.golang.org/protobuf v1.36.4
+	google.golang.org/protobuf v1.36.5
 )
 
 require (
