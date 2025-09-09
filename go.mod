@@ -1,12 +1,12 @@
 module github.com/khulnasoft-lab/agent-plugins-grpc
 
-go 1.21
+go 1.23
 
 toolchain go1.23.5
 
 require (
 	google.golang.org/grpc v1.64.1
-	google.golang.org/protobuf v1.36.5
+	google.golang.org/protobuf v1.36.9
 )
 
 require (
